@@ -112,5 +112,5 @@ pizza-sales-sql-analysis/
 
 ##  Author
 Chowdhury Md Afnan
-SQL & Data Analytics Portfolio Project
+
 
